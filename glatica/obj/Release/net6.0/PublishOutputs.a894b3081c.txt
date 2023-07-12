@@ -1,0 +1,7 @@
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\glatica.exe
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\glatica.dll
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\glatica.deps.json
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\glatica.runtimeconfig.json
+D:\Project\azure\glatica\glatica\obj\Release\net6.0\PubTmp\Out\glatica.pdb
